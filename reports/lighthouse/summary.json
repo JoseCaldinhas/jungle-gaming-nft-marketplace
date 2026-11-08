@@ -1,0 +1,302 @@
+{
+  "base": "http://localhost:4173",
+  "generatedAt": "2026-11-08T19:50:59.696Z",
+  "summaries": [
+    {
+      "path": "/",
+      "profile": "mobile",
+      "scores": {
+        "performance": 89,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 3505.82035,
+        "cls": 0.001889984886397795,
+        "tbtMs": 126.5
+      },
+      "reports": [
+        {
+          "name": "home-mobile-1",
+          "scores": {
+            "performance": 87,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 3790.4260000000004,
+            "cls": 0.001889984886397795,
+            "tbtMs": 121.5
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:48:12.169Z"
+          }
+        },
+        {
+          "name": "home-mobile-2",
+          "scores": {
+            "performance": 89,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 3496.3860499999996,
+            "cls": 0,
+            "tbtMs": 126.5
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:48:26.617Z"
+          }
+        },
+        {
+          "name": "home-mobile-3",
+          "scores": {
+            "performance": 89,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 3505.82035,
+            "cls": 0.001889984886397795,
+            "tbtMs": 132.5
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:48:41.071Z"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/",
+      "profile": "desktop",
+      "scores": {
+        "performance": 98,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 1013.8694,
+        "cls": 0.005789288321241408,
+        "tbtMs": 0
+      },
+      "reports": [
+        {
+          "name": "home-desktop-1",
+          "scores": {
+            "performance": 98,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 1015.1129000000001,
+            "cls": 0.005789288321241408,
+            "tbtMs": 0
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:48:55.925Z"
+          }
+        },
+        {
+          "name": "home-desktop-2",
+          "scores": {
+            "performance": 99,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 937.9380999999998,
+            "cls": 0.005789288321241408,
+            "tbtMs": 0
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:49:10.441Z"
+          }
+        },
+        {
+          "name": "home-desktop-3",
+          "scores": {
+            "performance": 98,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 1013.8694,
+            "cls": 0.005789288321241408,
+            "tbtMs": 0
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:49:24.915Z"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/nft/nft-1",
+      "profile": "mobile",
+      "scores": {
+        "performance": 85,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 4020.19085,
+        "cls": 0.003876837314844357,
+        "tbtMs": 136
+      },
+      "reports": [
+        {
+          "name": "detail-mobile-1",
+          "scores": {
+            "performance": 85,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 4013.4048500000004,
+            "cls": 0.003876837314844357,
+            "tbtMs": 136
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:49:39.430Z"
+          }
+        },
+        {
+          "name": "detail-mobile-2",
+          "scores": {
+            "performance": 86,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 4020.3717500000002,
+            "cls": 0.003876837314844357,
+            "tbtMs": 97
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:49:53.222Z"
+          }
+        },
+        {
+          "name": "detail-mobile-3",
+          "scores": {
+            "performance": 85,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 4020.19085,
+            "cls": 0.003876837314844357,
+            "tbtMs": 153.5
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:50:07.701Z"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/nft/nft-1",
+      "profile": "desktop",
+      "scores": {
+        "performance": 91,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "lcpMs": 881.7496500000001,
+        "cls": 0.1849958368878142,
+        "tbtMs": 0
+      },
+      "reports": [
+        {
+          "name": "detail-desktop-1",
+          "scores": {
+            "performance": 91,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 884.64595,
+            "cls": 0.1849958368878142,
+            "tbtMs": 0
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:50:21.769Z"
+          }
+        },
+        {
+          "name": "detail-desktop-2",
+          "scores": {
+            "performance": 91,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 879.99165,
+            "cls": 0.1849958368878142,
+            "tbtMs": 0
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:50:35.911Z"
+          }
+        },
+        {
+          "name": "detail-desktop-3",
+          "scores": {
+            "performance": 91,
+            "accessibility": 96,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcpMs": 881.7496500000001,
+            "cls": 0.1849958368878142,
+            "tbtMs": 0
+          },
+          "environment": {
+            "lighthouseVersion": "13.6.0",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36",
+            "fetchTime": "2026-11-08T19:50:49.994Z"
+          }
+        }
+      ]
+    }
+  ]
+}
